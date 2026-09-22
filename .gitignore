@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Private personal learning logs
+data/private/
+data/raw_personal_log.csv
+data/real_learning_log.csv
